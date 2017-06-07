@@ -1,0 +1,25 @@
+{
+  "name": "local-botrunner",
+  "version": "1.0.0",
+  "description": "This module is used to run bot on local machine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamlesh1988/local-botrunner.git"
+  },
+  "keywords": [
+    "gupshup",
+    "bot",
+    "local",
+    "server"
+  ],
+  "author": "Kamlesh Patel <kamlesh.patel@gupshup.io>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kamlesh1988/local-botrunner/issues"
+  },
+  "homepage": "https://github.com/kamlesh1988/local-botrunner#readme"
+}
